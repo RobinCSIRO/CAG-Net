@@ -1,3 +1,3 @@
 # CAG-Net
 
-Training and Testing codes will be provided after paper acceptance.
+Pre-trained models, training and testing codes, and more results.
